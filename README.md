@@ -1,1 +1,1 @@
-# FACT-EDNet
+This repository contains the implementation of FACT-EDNet: A frequency-adaptive continuous-time model for interpretable fault diagnosis in tractor hydro-mechanical continuously variable transmission power-shift system.
